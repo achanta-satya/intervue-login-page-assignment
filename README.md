@@ -12,16 +12,19 @@ This automation script logs into [Intervue.io](https://www.intervue.io) using Se
 ## 🧪 Features Automated
 - Login to Intervue.io
 - Switched to new window
+- Take screenshot if login failed or test failed
 - Search for an interview
 - Validate dashboard text
 - Logout
 
+
 ## 🔐 .env Format
 Create a `.env` file in the project root with the following:
 
-```env ()
+
 EMAIL=your-email@example.com
 PASSWORD=your-secure-password
+
 
 ## ▶️ To Run the Script
 
