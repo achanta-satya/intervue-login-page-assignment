@@ -27,5 +27,5 @@ PASSWORD=your-secure-password
 
 Then, execute the script using:
 
-    python interview.py
+    python file_name.py
 
